@@ -2,7 +2,7 @@
 - 👀Estou interessado em aprender a desenvolver e programar sistemas.
 - 🧑🏻‍💻Estudando pela instituição de ensino SENAI de São Paulo.
 - 💞️ Procuro colaborar e compartilhar meus aprendizados em Front-End (Html, CSS, JavaScript);
-- 📫 How to reach me  no DISCORD - Evandro Faquini#8862. Ou meu e-mail: evandrofaquini1981@gmail.com
+
 <div>
   <a href="https://github.com/Evandro-Faquini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandro-Faquini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

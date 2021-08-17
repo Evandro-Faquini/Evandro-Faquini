@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Evandro-Faquini
-- 👀🧑🏻‍💻Estou interessado em aprender a desenvolver e programar sistemas.
+- 👀Estou interessado em aprender a desenvolver e programar sistemas.
+- 🧑🏻‍💻Estudando pela instituição de ensino SENAI de São Paulo.
 - 💞️ Procuro colaborar e compartilhar meus aprendizados em Front-End (Html, CSS, JavaScript);
 - 📫 How to reach me  no DISCORD - Evandro Faquini#8862. Ou meu e-mail: evandrofaquini1981@gmail.com
 <div>
@@ -22,6 +23,7 @@
 <div> 
   
   <a href="https://instagram.com/evandro_faquini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:evandrofaquini1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
   

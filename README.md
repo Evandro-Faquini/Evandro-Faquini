@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evandro-Faquini
 - 👀Estou interessado em aprender a desenvolver e programar sistemas.
-- 🧑🏻‍💻Estudando pela instituição de ensino SENAI de São Paulo.
+- 🧑🏻‍💻Estudante pela instituição de ensino SENAI de São Paulo.
 - 💞️ Procuro colaborar e compartilhar meus aprendizados em Front-End (Html, CSS, JavaScript);
 
 <div>
